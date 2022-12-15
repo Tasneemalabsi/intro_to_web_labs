@@ -10,12 +10,13 @@ create an elearning website using only HTML:
 2.in the sign up page, create a form that gathers data about person that want to create an account, the fields that should be included in the form are:
 - first name
 - last name
-- email, should match the email pattern
-**Note: for this requirement,search for the input pattern attribute and regex email pattern**
+- email, should match the email pattern. You should also add a message that tells the user to match the right pattern if they entered an invalid email.
+**Note: for this requirement,search for the input pattern attribute and regex email pattern. you can also check the title attribute for the message**
 - password
 - select their gender 
 - select birth month from a drop down menu
 - write their birth year (number field)
+- all the fields are required
 - submit button, and when the form is submitted, the user will be taken to another page. (the courses page)
 - the header of this page should contain the title and a link to the main page, and the footer should be exatly like the footer of the main page
 - the sign up should look like this:
