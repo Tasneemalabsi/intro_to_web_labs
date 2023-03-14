@@ -1,4 +1,10 @@
-## Write a JavaScript function for each of these questions:
+# JavaScript Objects and Constructor Function
+
+## Objective: to understand objects and how to deal with their properties and methods
+
+## Task:
+
+### Write a JavaScript function for each of these questions:
 1. Let the function parameter be an array objects, for example see the following array:
     ```
     cities = [{
@@ -24,7 +30,7 @@
     Example : Input => book = {name:"Think And Grow Rich", author:"Napoleon Hill", releaseDate:1937}, 'author'
               output: true
 
-## Write a program to answer the following questions:
+### Write a program to answer the following questions:
 1. Given The following constructor function:
 
 ```

@@ -1,3 +1,11 @@
+# HTML DOM 
+
+## Objective: To understand how to handle pure DOM and render document objects using JavaScript
+
+## We want to create a website for gathering information about the animals that are available for adoption
+
+## Task:
+
 ## Open your code for the previous lab then:
 
 1. - Go to your code regarding to the Animal constructor function you've built

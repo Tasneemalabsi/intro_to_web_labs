@@ -1,4 +1,6 @@
-# Lab 4
+# JavaScript Basics
+
+## Objective: To understand JavaScript basics including variables, arrays, conditional statements and loops
 
 ## Write a javascript program for the following cases: 
 
@@ -16,7 +18,7 @@
     - if the element cannot be converted to a number, log the message "Invalid Input"
 
 3. Given a string, let the string be "He*llo17 wor++ld3,"
-    - iterate through the string characters, if the character is an english letter, convert it to its ASCII code and then push the ASCII code to a new array 
+    - iterate through the string characters,  if the character is an english letter,convert it to its ASCII code and then push the ASCII code to a new array 
     - if the character is a number, push it directly to the new array as a number (not as a string)
     - if the character cannot be converted to a number and doesn't have an equivalent ASCII code, ignore it.
     - sort the resulting array in a descending order.

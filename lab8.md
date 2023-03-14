@@ -1,4 +1,11 @@
-## Imagine you want to start an online book website
+# HTML Events
+
+## Objective: to understand events and know how to handle them using Javascript and HTML. Also, to know how to store objects in the local storage.  
+
+## We want to create an online book store
+
+## Task:
+
 1. add multiple books to your page, you should render the book's name, image and price. They should look like this:
 
     ![BOOKS](img\BOOKS.PNG)
