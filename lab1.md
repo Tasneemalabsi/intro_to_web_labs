@@ -10,7 +10,7 @@
 - Footer: with the copy rights information and the social media icons
 - The main page should look like this:
 
-![main page](img\extralab.PNG)
+![main page](img/extralab.PNG)
 
 ***Note: for the social media icons, you have to search for font awesome.***
 
