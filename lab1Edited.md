@@ -26,7 +26,7 @@
 - the header of this page should contain the title and a link to the main page, and the footer should be exatly like the footer of the main page
 - the sign up should look like this:
 ![sign up page](img\Signup.png)
-3. in the third page, the header and the footer should match the sign up page, but the main should contain a third level heading that informs the user that their signing up is confirmed along with a table of the courses as the following image (the name of the courses and instructors as well as the links are up to you, you can add any names and links you want)
+3. In the third page, the header and the footer should match the sign up page, but the main should contain a third level heading that informs the user that their signing up is confirmed along with a table of the courses as the following image (the name of the courses and instructors as well as the links are up to you, you can add any names and links you want)
 - the courses page should look like this:
 - ![courses page](img\Onsubmit.png)
 
