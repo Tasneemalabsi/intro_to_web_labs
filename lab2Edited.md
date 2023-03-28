@@ -1,3 +1,13 @@
+![ltuc](img/ltuc.png)
+
+
+
+<br>
+<br>
+
+<br>
+<br>
+
 # HTML Basics
 
 ## Objective: Understand HTML basics and build a multi-page website. 
@@ -25,6 +35,10 @@
 - the courses page should look like this:
 
 ![Courses](img/editedCourses.PNG).
+
+- in the courses page, suppose a math course, you will be having a liked page, the header and footer in this page should look exactly like the header and the footer in the sign up and courses pages. the main of this page should have a table of contents with an ordered list with the contents of the page, each item should have a link that takes you to the position of that item in the same page, one of the contents has to have a table of mathematical symbols. this page should look like this:
+
+![1](img/math1.PNG)   ![2](img/math2.PNG) ![3](img/math3.PNG) 
 
 ### Notes:
 1. In the main page, the contact us nav link should have a link to an email address.
