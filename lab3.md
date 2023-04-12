@@ -11,12 +11,12 @@
 7. change the color of the font when the user is writing their information in the text and number input fields. and change the background color when the user highlights the fields
 8. For the courses page, in the main paragraph, make the first line **only** glow, it should look (not exactly, the colors are up to you !) like this :
 
-![glowing paragraph](img\glowytext.PNG)
+![glowing paragraph](img/glowytext.PNG)
 
 9. for the courses table, recreate it using the grid.
 
-![courses table](img\gridtable.PNG)
+![courses table](img/gridtable.PNG)
 10. You have to add the contact icons to the footer in all of the pages:
-![icons](img\footericons.PNG)
+![icons](img/footericons.PNG)
 
 *Search for font awesome HTML*
