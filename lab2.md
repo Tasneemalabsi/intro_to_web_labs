@@ -28,7 +28,7 @@
 
 3. The header and the main of the sign up page should look like this:
 
-![signup](img\updatedsignup.png)
+![signup](img/updatedsignup.png)
 
 
 
