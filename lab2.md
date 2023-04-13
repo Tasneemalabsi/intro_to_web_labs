@@ -38,7 +38,7 @@
    - the main of the page should look like this:
 
    ![glowing paragraph](img/glowytext.PNG)
-   ![courses table](img/updatedtable.PNG)
+   ![courses table](img/updatedTable.PNG)
       *Note: only the first line of the paragraph should be glowy*
 
 - *The header should be sticky for all of the pages*
