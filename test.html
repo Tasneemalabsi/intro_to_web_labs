@@ -7,18 +7,25 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Choose your monster's colors:</p>
+    <header style="background-color: black; color: white; height: 80px; text-align:center; margin: bottom 20px;">
+        <h1 style="text-align: center;">Gallery</h1>
+    </header>
+    <main style="margin-top: 10px; margin-bottom:10px;">
+        <div style="display:flex; justify-content:space-between;">
+            <script>
+                let num = parseInt(prompt("enter a number"));
+                let img;
+                for(let i = 1; i<=num; i++){
+                    img = prompt("enter the image source")
+                    document.write(`<img src="${img}" width="200" height="200" alt="img" title="img" style="margin-right:10px;">`);
+                }
+            </script>
+        </div>
 
-<div>
-    <input type="color" id="head" name="head"
-           value="#e66465">
-    <label for="head">Head</label>
-</div>
+    </main>
+    <footer style="background-color: black; color: white; height: 80px; text-align:center; margin-top:20px">
+        <h3 style="text-align: center; padding-top:20px">&copy; to author</h3>
+    </footer>
 
-<div>
-    <input type="color" id="body" name="body"
-            value="#f6b73c">
-    <label for="body">Body</label>
-</div>
 </body>
 </html>

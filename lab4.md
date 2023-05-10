@@ -17,7 +17,7 @@
     - if the element is not a number but can be converted it to a number, convert it then do the above calculations.
     - if the element cannot be converted to a number, log the message "Invalid Input"
 
-3. Given a string, let the string be "He*llo17 wor++ld3,"
+3. Given a string(The string should be taken from the user as an input), let the string be (for) "He*llo17 wor++ld3,"
     - iterate through the string characters,  if the character is an english letter,convert it to its ASCII code and then push the ASCII code to a new array 
     - if the character is a number, push it directly to the new array as a number (not as a string)
     - if the character cannot be converted to a number and doesn't have an equivalent ASCII code, ignore it.
